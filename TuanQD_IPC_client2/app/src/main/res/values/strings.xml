@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">TuanQD_IPC_client</string>
-    <string name="get_item_number">Get Async Number</string>
-    <string name="item_number">Item Sync Number</string>
-    <string name="i_m_a_client">I\'m a Client 2</string>
-    <string name="async_number">Item Async Number</string>
-</resources>
