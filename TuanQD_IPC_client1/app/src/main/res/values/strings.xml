@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TuanQD_IPC_client</string>
+    <string name="get_item_number">NBConsume</string>
+    <string name="item_number"> Get Consume Blocking</string>
+    <string name="i_m_a_client">I\'m a Client 1</string>
+    <string name="async_number">Get Consume NonBlocking</string>
+    <string name="Sync_mode">when click Button Client will trigger product, Server keep producing</string>
+    <string name="get_product_sync">BConsume</string>
+</resources>

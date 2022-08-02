@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Base Project</string>
+    <string name="i_am_a_server">I\'m a Server!</string>
+</resources>
